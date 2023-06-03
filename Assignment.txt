@@ -119,9 +119,9 @@ Then process  queries, where each query can be of three following types:
 3  :  Print the element at the front of the queue.
 
 i/p-
-5
-1 5
-1 6
+
+ 5
+ 6
 3
 2
 3
@@ -146,6 +146,51 @@ AGBFCED
 1. Implement linear queue by array & linked List
 2. Implement Circular queue by array & Linked List
 
+Day 5 Assignment-
+Implement DEnded Queue using for circular queue.
+Implement priority queue by linked list.
 
+Day 6 Assignment
+
+1. Implement Bubble sort.
+2. Implement insertion sort.
+3. Implement Selection sort.
+4. Implement Quick sort.
+
+1. Implement Linear search
+2. 1. Implement Binary search
+
+Day 7 Assignments
+
+Assignment 9
+Assign. Develop the following hashing functions:
+	i) Using division method
+	   Hint: Use largest prime number smaller than the array size
+	ii) Using Radix to the base 11
+	iii) Using Multiplication method
+		Use constant c = 0.496235
+	Consider the size of array in each case as 100
+	
+	Write the demo code to test each hashing method.
+
+	iv) Resolve collision in division method using Linear probing.
+	v) Resolve collision in division method using Quadratic probing
+	vi) Combine any of the above 2 hashing methods (From i to iii) and demonstrate double hashing
+
+
+Day 8 Assignments
+1. implement BST with array & Linked List write operations -
+insert, display(traversal - BFT & DFT(in,pre,post)), delete,search
+
+2. write a code for traversal without recurssion.
+
+Day 9. Assignment-
+1. implement Heap sort.
+
+Day 10 Assignments
+1. implement graph with adjecency matrix, adjecency List, Bfs, DFS 
+Day 11 Assignments-
+1. implement Dikstra & floyd-warshall algorithm
+2. implement minimum spaning tree algoritms (K,P)
 
 
